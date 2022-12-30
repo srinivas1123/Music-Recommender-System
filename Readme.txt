@@ -1,15 +1,13 @@
 
 Install all dependancies as specified in the requirements.txt file.
 
-Import Evaluation.py and Recommmenders.py files into the Notebook path directory. 
 
-## Run .ipynb  in "jupyter notebook " to see the code.
+## Run .ipynb  in "jupyter notebook " or "Google Colab" to see the code.
 
 ----------------------------
 # OVERVIEW:
 ----------------------------
-Project is about creating a music recommendation systems using various methods and algorithms. Main focus were Popularity Based Recommendation, Collaborative Based Filtering (Matrix Factorization), K-means Clustering and Hybrid approach.
-
+Project is about creating a music recommendation systems using various methods and algorithms. Main focus were Content Based Filtering, Collaborative Based Filtering (Matrix Factorization), K-means Clustering and Hybrid approach.
 ------------------------------------------
 # External Music Data Source:
 ------------------------------------------
