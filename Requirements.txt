@@ -1,0 +1,11 @@
+## Dependencies
+
+Python
+Numpy
+scikit-learn
+scipy
+sparsesvd
+python-document
+matlplotlib
+seaborn
+
